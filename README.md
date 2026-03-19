@@ -1,2 +1,3 @@
-# prime-sports-analytics-qj1v
-Automated issue comment bot repository
+# Prime Sports Analytics Qj1V
+
+Automated issue comment bot repository.
